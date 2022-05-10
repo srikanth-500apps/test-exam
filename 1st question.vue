@@ -8,9 +8,9 @@
       export default{
       name:TesT,
       data(){
-      return{[{pen,10,category]},
+      return{
       fields:[{PoductName, price, product category}]
-      items:{pen,10,category],
+      items:[{pen,10,category},
       {phone, 10000, digital]
       }
       }
